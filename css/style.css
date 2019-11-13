@@ -1,0 +1,142 @@
+body, html, section {
+    width: 100%;
+    height: 100%;
+}
+.mySlides {
+    display:none;
+    text-align: center;
+
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 4vw;
+    
+}
+
+.fs-img-1 {
+  /* The image used */
+  background-image: url("../img/ariel-besagar-HkN64BISuQA-unsplash.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.black-shadow {
+    text-shadow: 10px 10px 10px rgb(0,0,0);
+}
+#video-1 {
+    position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+object-fit: cover;
+overflow: hidden;
+
+}
+.fs-img-2 {
+  /* The image used */
+  background-image: url("../img/photo-of-blue-sky-elia-clerici.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fs-img-3 {
+  /* The image used */
+  background-image: url("../img/jump-shot.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fs-img-4 {
+  /* The image used */
+  background-image: url("../img/hoop-sunset.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fs-img-5 {
+    /* The image used */
+  background-image: url("../img/basketball-made-shot-edgar-colomba.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fs-img-6 {
+    /* The image used */
+  background-image: url("../img/my-team-on-court.jpeg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fs-img-7 {
+    /* The image used */
+  background-image: url("../img/team-after-game.jpeg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fs-img-8 {
+    /* The image used */
+  background-image: url("../img/photo-of-men-playing-basketball-3056971.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fs-img-9 {
+    /* The image used */
+  background-image: url("../img/action-backboard-ball-basketball-358042.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.pictures {
+    height: 390px;
+    width: 1100px;
+    margin-left: -50px;
+}
